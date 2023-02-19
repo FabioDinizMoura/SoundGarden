@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+body{
+    font-family: 'Questrial', sans-serif;
+}
+
+.img-responsive {
+    max-width: 100%;
+}
+
+header {
+    position: relative;
+    box-shadow: 0px 5px 4px 0px rgb(63 63 63 / 27%);
+    width: 100%;
+    background-color: #fff;
+}
+aside {
+    min-height: 100vh;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: #C2185B;
+}
+
+.btn-primary{
+    background-color: #C2185B;
+    border-color: #C2185B;
+}
+
+main.login {
+    width: 400px;
+}
+
+section.full{
+    width: 100%;
+    min-height: 80vh;
+    padding: 50px 0;
+}
+
+article.evento {
+    width: 350px;
+}
+
+footer nav ul{
+    list-style: none;
+    display: flex;
+}
+
+footer nav ul li  {
+    padding: 10px;
+}
+
+.modal-container {
+    position: fixed;
+    top: 0;
+
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* MODAL */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.6); /* Black w/ opacity */
+}
+  
+/* Modal Content/Box */
+.modal-content {
+    background-color: #fefefe;
+    margin: 5% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 50%; /* Could be more or less, depending on screen size */
+    height: 70%;
+}
+  
+/* The Close Button */
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 2rem;
+    font-weight: bold;
+}
+  
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
