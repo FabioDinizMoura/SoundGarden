@@ -16,7 +16,7 @@
 ### Este projeto é uma aplicação web desenvolvida como parte do Bootcamp Gama Experience #48, na semana 8. O objetivo é fornecer aos usuários uma plataforma onde eles possam visualizar eventos e reservar ingressos. A aplicação oferece a funcionalidade de criar, editar e excluir eventos (CRUD) que se integra a uma API, permitindo a solicitação, atualização e exclusão de dados. Durante esta semana de desenvolvimento, o foco principal foi em JavaScript, enquanto o HTML e o CSS foram disponibilizados pelo cliente. A documentação da API pode ser acessada por meio deste <a href="https://documenter.getpostman.com/view/3028053/UVsTp2LC"> link</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>
 
-## <h2 align="left"> Acesso ao projeto no link: </h2>
+## <h2 align="left"> Acesso ao projeto pelo link: https://fabiodinizmoura.github.io/SoundGarden/ </h2>
 
 ## <h1 align="left">Sessões do projeto</h1>
 + Landing Page
